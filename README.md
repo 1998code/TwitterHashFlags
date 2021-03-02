@@ -7,6 +7,8 @@ https://hashflags2021.vercel.app
 ![Dark](https://ph-files.imgix.net/66b36a0f-e34a-4d52-a8e8-a1f7eb89d37b.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=554&h=380&fit=max&dpr=2)
 
 ## Get started
+0. Register on https://www.algolia.com
+
 1. Replace 'Application_ID', 'Search-Only_API_Key'
 
 2. Import Dataset (.JSON) provided.
