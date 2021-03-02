@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/([^/]+):match*", "destination": "https://twitter.com/?q=:match*" }
+  ]
+}
